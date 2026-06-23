@@ -1,0 +1,22 @@
+{
+    "urunler": [
+        {
+            "urun_id": 1,
+            "urun_adi": "KEREM",
+            "kategori": "ÇANTA",
+            "marka": "DOĞAN",
+            "fiyat": 1111.0,
+            "stok": 9998
+        }
+    ],
+    "satislar": [
+        {
+            "urun_id": 1,
+            "urun_adi": "KEREM",
+            "adet": 1,
+            "birim_fiyat": 1111.0,
+            "toplam_tutar": 1111.0,
+            "tarih": "24.06.2026 02:12"
+        }
+    ]
+}
